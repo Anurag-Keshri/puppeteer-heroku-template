@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer-heroku",
+  "version": "1.0.0",
+  "description": "puppeteer-heroku",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.16.3",
+    "puppeteer": "^13.7.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "test0": "node test0.js",
+    "test1": "node test1.js",
+    "test2": "node test2.js",
+    "test3": "node test3.js",
+    "test4": "node test4.js"
+  },
+  "repository": {},
+  "keywords": [
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {}
+}
